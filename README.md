@@ -95,5 +95,5 @@
 
 ---
 <div align="center">
-  Developed by <a href="https://github.com/emreefeyuksel">YOUR NAME</a>
+  Developed by <a href="https://github.com/emreefeyuksel">Emre Efe Yüksel</a>
 </div>
